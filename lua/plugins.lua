@@ -11,4 +11,5 @@ return require('packer').startup(function(use)
     use {'akinsho/bufferline.nvim', tag = "v2.*" }
 		use {'norcalli/nvim-colorizer.lua'}
 		use {'neoclide/coc.nvim', branch = 'release'}
+		use "lukas-reineke/indent-blankline.nvim"
 end)

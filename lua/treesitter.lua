@@ -10,3 +10,4 @@ configs.setup {
     enable = true,
   },
 }
+

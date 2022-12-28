@@ -3,6 +3,7 @@ vim.opt.mouse = "n"
 vim.opt.cursorline = true
 vim.cmd[[set tabstop=2]]
 vim.cmd[[set shiftwidth=2]]
+vim.cmd[[set nowrap]]
 
 --Sua loi Cannot make change, modifialbe is off
 vim.cmd[[set modifiable]]
